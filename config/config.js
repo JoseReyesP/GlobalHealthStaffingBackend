@@ -17,4 +17,4 @@ const config = {
 //   mongoUri: process.env.mongoUri,
 // };
 
-// export default config;
+export default config;
